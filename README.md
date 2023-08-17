@@ -1,7 +1,7 @@
 # Snake_Game
 
 A classic Snake game implemented in Python using the Turtle graphics library.
-
+![Snake Game Demo](demo.gif)
 ## Description
 
 This project is a simple implementation of the classic Snake game where the player controls a snake that grows longer as it consumes food while avoiding collisions with the screen boundaries and itself.
