@@ -13,3 +13,5 @@ This project is a simple implementation of the classic Snake game where the play
 - Collision detection with screen boundaries and the snake itself.
 - Score tracking.
 - Basic graphical interface using the Turtle library.
+
+![Alt Text](https://i.pinimg.com/564x/3b/a8/ef/3ba8ef99683bc4d09c8b8f29c2135775.jpg)
